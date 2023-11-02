@@ -1,7 +1,5 @@
-export default function payment(){
+export default function ksnm(){
     return (
-        <div className="pay-home">
-
-        </div>
+        <div></div>
     )
 }
