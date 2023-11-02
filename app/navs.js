@@ -15,7 +15,7 @@ export default function NAV(){
                 </Link>
             </div>
             <div className='nma'>
-                <Link href={'/home'}>
+                <Link href={'/'}>
                     <div className='btn-l3'><BsHouseDoorFill className='btn-ll'></BsHouseDoorFill></div>
                 </Link>
                 <Link href={'/cloud'}>

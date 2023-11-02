@@ -1,6 +1,7 @@
 {
   "name": "cloud_front",
   "version": "0.1.0",
+  "author": "Layla-focalors",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tosspayments/payment-widget-sdk": "^0.10.0",
     "antd": "^5.10.2",
     "heroicons": "^2.0.18",
     "next": "14.0.0",
